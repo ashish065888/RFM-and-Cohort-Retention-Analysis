@@ -3,7 +3,7 @@
 ## Project Overview
 An end-to-end data analysis project that answers:
 
-> **Which customers and products drive repeat revenue, and how can the business improve retention and basket value?**
+> **Which customers and products drive repeat revenue, and how can the business improve retention?**
 
 This project analyzes transactional data from a UK-based online retailer to understand customer behavior, product performance, and repeat-purchase patterns.
 
